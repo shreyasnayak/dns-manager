@@ -1,6 +1,6 @@
 
 
-![Main-CI](https://github.com/shreyasnayak/dns-manager/actions/workflows/ci.yml/badge.svg) ![GitHub release](https://img.shields.io/github/v/release/shreyasnayak/dns-manager) ![License](https://img.shields.io/github/license/shreyasnayak/dns-manager)
+![CI](https://github.com/shreyasnayak/dns-manager/actions/workflows/ci.yml/badge.svg) ![GitHub release](https://img.shields.io/github/v/release/shreyasnayak/dns-manager) ![License](https://img.shields.io/github/license/shreyasnayak/dns-manager)
 
 
 **DNS Manager** is a simple command-line tool that helps users manage DNS records for their domain names. It streamlines the process of adding, updating, or deleting DNS records without needing to navigate complex registrar interfaces.
